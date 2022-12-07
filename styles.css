@@ -335,4 +335,12 @@ footer {
     height: 300px;
     width: 100%;
   }
+  footer {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  footer div{
+    margin-bottom: 3rem;
+  }
 }
